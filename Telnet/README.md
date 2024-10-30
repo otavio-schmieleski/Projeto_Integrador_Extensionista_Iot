@@ -1,8 +1,3 @@
-# Documentação do Código ESP8266
-
-## Resumo
-Este código conecta um ESP8266 a uma rede Wi-Fi, habilita a atualização de firmware Over-the-Air (OTA) e inicia um servidor Telnet na porta 23 para controlar um LED.
-
 ## Bibliotecas
 * ESP8266WiFi.h: Controla a conexão Wi-Fi do ESP8266.
 * ArduinoOTA.h: Permite atualizações OTA do firmware.
