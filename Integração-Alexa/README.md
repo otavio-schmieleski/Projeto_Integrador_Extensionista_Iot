@@ -12,8 +12,7 @@ Controle Manual: Ao pressionar o botão, o estado do relé é alternado (liga/de
 Controle Remoto: Comandos enviados pelo SinricPro atualizam o estado do relé e, consequentemente, da lâmpada.<br>
 
 ## Arquitetura do Projeto
-![integracao-alexa](https://github.com/user-attachments/assets/9f8712ee-7845-42f9-96b7-feb5576641aa)
-
+![Captura de tela 2024-11-26 203832](https://github.com/user-attachments/assets/e1527f66-6283-44e9-8c46-0c1754091f6e)
 
 
 ## Video da Integração com a Alexa em funcionamento
